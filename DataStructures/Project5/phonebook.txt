@@ -1,0 +1,6 @@
+null{Barbara, 3}
+null{Steve, 5}
+null{Terry, 6}
+null{Miguel, 7}
+null{John, 10}
+null
